@@ -32,6 +32,11 @@ namespace SparkleXRLib.MagicLeap
             print(MLHandTracking.Left);
             print(MLHandTracking.Right);
             print(MLHandTracking.KeyPoseManager);
+
+            print(MLHeadTracking.TrackingState);
+            print(MLHeadTracking.TrackingState);
+            //print(MLHandTracking.Right);
+            //print(MLHandTracking.KeyPoseManager);
         }
     }
 }
